@@ -1,0 +1,164 @@
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+}
+.div div{
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+}
+.div img{
+    margin-left: 50px;
+}
+.div div a{
+    color: white;
+    text-decoration: none;
+    text-shadow: 1px 3px 3px ;
+}
+h1{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    width: 602px;
+    height: 65px;
+    border-radius: 25px;
+}
+.main{
+    background-image: url(./Rectangle\ 2.png);
+}
+
+.box{
+    background-color: red;
+    width: 237px;
+    height: 209px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 350px;
+    left: 250px;
+}
+.box3{
+    background-color: red;
+    width: 237px;
+    height: 209px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 350px;
+    left: 1040px;
+}
+.box2{
+    background-color: red;
+    width: 411px;
+    height: 209px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: absolute;
+    top: 350px;
+   
+}
+.div4 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.box5{
+    background-color: #32FB00;
+    color: red;
+    width: 237px;
+    height: 209px;
+
+
+}
+.box6{
+    background-color: #32FB00;
+    color: red;
+    width: 237px;
+    height: 209px;
+}
+.box7{
+    color: red;
+    background-color: #32FB00;
+    width: 237px;
+    height: 209px;
+}
+
+
+.div1 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.main2{
+    background-color: black;
+}
+.main2 div div{
+    color: white;
+    background-color: #7B2525;
+   
+}
+.main2 div{
+    
+}
+.tr{
+    width: 300px;
+    height: 282px;
+    text-align: center;
+   
+}
+.tr h2{
+ text-shadow: 1px 3px 3px;
+}
+
+.yu{
+    width: 300px;
+    height: 282px;
+    text-align: center;
+   
+}
+
+.yu h2{
+    text-shadow: 1px 3px 3px;
+   }
+.yu img{
+   width: 300px;
+}
+
+
+.cls{
+    width: 300px;
+    height: 282px;
+    text-align: center;
+   
+}
+
+.cls h2{
+    text-shadow: 1px 3px 3px;
+   }
+.cls img{
+   width: 300px;
+   height: 150px;
+}
+
+.hoco{
+    display: flex;
+    justify-content: space-around;
+    margin:  0 auto;
+}
